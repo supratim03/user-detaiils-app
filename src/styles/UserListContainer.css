@@ -1,0 +1,16 @@
+.loader-wrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.sort-icons {
+    float: right;
+    cursor: pointer;
+}
+
+.link {
+    color: #1890ff !important;
+    cursor: pointer;
+}

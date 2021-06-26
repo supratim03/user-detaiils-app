@@ -1,0 +1,16 @@
+.padding-top-20 {
+    padding-top: 20px;
+}
+
+.horizontal-center {
+    display: flex !important;
+    justify-content: center;
+}
+
+.cursor-pointer {
+    cursor: pointer;
+}
+
+.padding-20 {
+    padding: 20px;
+}
